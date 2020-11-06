@@ -1,0 +1,1 @@
+docker run --rm -v c:/bb/SVAT/seges.azure.eventgridevents:C:/b/repo nukebuilder:v14 powershell -NoLogo -NonInteractive -NoProfile -ExecutionPolicy unrestricted -Command "cd C:/b/repo/;.\build.ps1"

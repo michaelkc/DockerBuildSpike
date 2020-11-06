@@ -1,0 +1,1 @@
+docker build . -t nukebuilder:v14 --isolation=hyperv
